@@ -10,7 +10,11 @@ Report of our work is given in _paper.pdf_.
 
 The notebook _main.ipynb_ contains all visualizations presented in our report. The source code for Metropolis-Hastings algorithm is in _./src_ as well as auxiliary functions. In our solution, besides the main task we carry out comparative analysis of four base chains. For this purpose, we prepared results of experiments for all chains with different $\lambda$, $\beta$ and its increase factor. This data is contained in _./chains_results_ as PyTorch tensors.
 
-Authors:
+
+_Authors_:
+
 Dubravka Kutlesic (@dkutlesic, dubravka.kutlesic@epfl.ch)
+
 Aleksandr Timofeev (@TimofeevAlex, aleksandr.timofeev@epfl.ch)
+
 Andrei Afonin (@AfoninAndrey, andrei.afonin@epfl.ch)
